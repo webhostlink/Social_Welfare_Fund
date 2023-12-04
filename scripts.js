@@ -5,25 +5,25 @@ function learnMore() {
 }
 
 function exploreTeam() {
-    alert('Explore Team functionality can be added here!');
-}
-
-function programs() {
-    alert('Programs functionality can be added here!');
+    alert('Explore team functionality can be added here!');
 }
 
 function explorePrograms() {
-    alert('Explore Programs functionality can be added here!');
+    alert('Explore programs functionality can be added here!');
 }
 
-function get-involved() {
-    alert('Get-involved functionality can be added here!');
+function getInvolved() {
+    alert('Get involved functionality can be added here!');
 }
 
-function gallery() {
-    alert('Gallery functionality can be added here!');
+function viewGallery() {
+    alert('View gallery functionality can be added here!');
 }
 
-function contact() {
-    alert('Contact functionality can be added here!');
+function viewCalendar() {
+    alert('View calendar functionality can be added here!');
+}
+
+function explorePartnerships() {
+    alert('Explore partnerships functionality can be added here!');
 }
