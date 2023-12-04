@@ -20,7 +20,7 @@ header {
 }
 
 .main-section, .features-section, .about-us, .programs, .get-involved, .gallery, .contact, .events-calendar, .testimonial-section, .partnerships {
-    max-width: 400px;
+    max-width: 200px;
     width: 100%;
     padding: 40px;
     box-sizing: border-box;
